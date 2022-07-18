@@ -38,4 +38,7 @@ Loggued in with "email" and "password"
 Copy the returned access token and set it in the Header in the parameter Authorization
 
 Call the api
-- http://0.0.0.0:8000/api/market/?symbol=IBM
+-   http://0.0.0.0:8000/api/market/?symbol=IBM
+
+Logs will be show in:
+-   request.info.log
